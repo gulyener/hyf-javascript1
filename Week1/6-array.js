@@ -14,7 +14,7 @@ let myFavoriteAnimals = ['Duck', 'Dog', 'Alpaca','RAbbit','Cat'];
 console.log(myFavoriteAnimals);
 
 //6.6
-let daansFavoriteAnimal = 'Baby pig';
+const daansFavoriteAnimal = 'Baby pig';
 myFavoriteAnimals.push(daansFavoriteAnimal);
 
 //6.7
