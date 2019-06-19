@@ -21,6 +21,8 @@ function compareNumbers(a, z) {
     }
 }
 
+newNumber = compareNumbers(a,z);
+
 //5.6
 console.log('This is the highest value: ' + compareNumbers(a,z));
 
