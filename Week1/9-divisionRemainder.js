@@ -1,9 +1,11 @@
+// % operator gives the remaining number after it has been divided by that number
+
 let x = 7;
 x = x % 3;
 console.log(x);
 
 let y = 102;
-y = y %25;
+y = y % 25;
 console.log(y);  
 
 let z = 79;
