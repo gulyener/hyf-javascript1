@@ -94,8 +94,7 @@ const replaceWord = re => {
 
 console.log(replaceWord(/ good/gi));
 
-// what is this sorcery /..../..? What kind of a data is it? 
-//what does gi mean? What is going on??
+
 
 
 // 4. Conditionals - Log numbers between 1-200 that can be divided by 3
